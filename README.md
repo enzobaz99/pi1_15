@@ -15,14 +15,14 @@ Este proyecto consiste en crear una API que utiliza un modelo de recomendación 
 + Python
 + Scikit-Learn
 ## **Pasos**
-**`ETL`**: donde se nos pidio desanidar harchivos json
+**`ETL`**: donde se nos pidio desanidar harchivos json.
 **`desarrollar una API`**: en la api teniamos que desarrollar funciones:
 + def PlayTimeGenre( genero : str )
 + def UserForGenre( genero : str )
 + def UsersRecommend( año : int )
 + def UsersNotRecommend( año : int )
-+ def sentiment_analysis( año : int )
-**`EDA`**: donde mostraramos datos un poco mas estadisticos para mayor comprencion
++ def sentiment_analysis( año : int ).
+**`EDA`**: donde mostraramos datos un poco mas estadisticos para mayor comprencion.
 **`Modelos`**: aqui se nos pidio relizar modelos de aprendizaje donde teniamos que realizar funciones que serian estas:
 + def recomendacion_juego( id de producto ) 
 + def recomendacion_usuario( id de usuario )
