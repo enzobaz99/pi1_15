@@ -32,4 +32,4 @@ Este proyecto consiste en crear una API que utiliza un modelo de recomendación 
 
 ## **Links:**
 - [Deploy de la API en Render](http://127.0.0.1:8000/docs#/)
-- [Video de youtube explicando el proyecto]()
+- [Video de youtube explicando el proyecto](https://youtu.be/ly8YC4zy17c?si=IYD5UIEinRrfHTJi)
